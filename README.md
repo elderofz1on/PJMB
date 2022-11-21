@@ -4,6 +4,9 @@
 
 💰 - [**Compre agora o livro Programando jogos com micro:bit**](https://hotmart.com/pt-br/marketplace/produtos/programando-jogos-com-microbit)
 
+## Importando os projetos
+##### Você pode importar os projetos abaixo para seu ambiente no [Makecode](https://makecode.microbit.org/)
+
 ## Capítulo 1
 #### Desvendando o micro:bit apresenta as características da micro:bit e do ambiente de programação Makecode, bem como o processo de conexão e transferência da programação entre o Makecode e a micro:bit.
 
