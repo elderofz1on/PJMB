@@ -1,6 +1,10 @@
 # **Programando jogos com micro:bit**
 Repositório de projetos do livro Programando Jogos com micro:bit
 
+📕 - [**Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
+
+💰 - [**Compre agora o livro Programando jogos com micro:bit**](https://hotmart.com/pt-br/marketplace/produtos/programando-jogos-com-microbit)
+
 ## Capítulo 1
 #### Desvendando o micro:bit apresenta as características da micro:bit e do ambiente de programação Makecode, bem como o processo de conexão e transferência da programação entre o Makecode e a micro:bit.
 
