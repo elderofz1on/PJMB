@@ -8,7 +8,7 @@
 ##### Você pode importar os projetos abaixo para seu ambiente no [Makecode](https://makecode.microbit.org/), é bem simples.
 1. Abra o [Makecode](https://makecode.microbit.org/)
 2. Clique no botão **IMPORTAR**
-
+![Imagem](makecode01.png)
 
 4. 
 
