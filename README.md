@@ -1,5 +1,4 @@
-# **Programando jogos com micro:bit**
-Repositório de projetos do livro Programando Jogos com micro:bit
+# **Repositório de projetos do livro Programando Jogos com micro:bit**
 
 📕 - [**Conheça o livro Progrando jogos com micro:bit**](https://hackids.com.br/book-programando-jogos-com-microbit/)
 
