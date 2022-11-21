@@ -5,15 +5,10 @@ Repositório de projetos do livro Programando Jogos com micro:bit
 #### Desvendando o micro:bit apresenta as características da micro:bit e do ambiente de programação Makecode, bem como o processo de conexão e transferência da programação entre o Makecode e a micro:bit.
 
 https://github.com/elderofz1on/cap01-desafio-alomundo
-
 https://github.com/elderofz1on/cap01-desafio-contagem_regressiva
-
 https://github.com/elderofz1on/cap01-desafio-imagem
-
 https://github.com/elderofz1on/cap01-desafio-mensagem-texto-imagem-
-
 https://github.com/elderofz1on/cap01-mensagem-texto-imagem-solucao
-
 https://github.com/elderofz1on/cap01-solucao_contagem_regressiva
 
 ## Capítulo 2 
