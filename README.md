@@ -216,6 +216,9 @@ Repositório de projetos do livro Programando Jogos com micro:bit
 
 ⚡ https://github.com/elderofz1on/cap13-solucao_bitrepeat4
 
+🤝 Projeto Bônus
+No capítulo 13 do livro exploramos o acelerômetro como substituto aos quatro botões que acompanham originalmente o jogo Simon. Neste projeto bônus, nossa proposta é utilizar apenas os botões A e B para acionamento da sequência. Obviamente a sequência será composta apenas de duas opções, o que não quer dizer que a repetição será mais fácil, principalmente quando há uma grande quantidade de elementos a serem repetidos.
+
 ⚡ https://github.com/elderofz1on/cap13-solucao_bitrepeat_dual
 
 ## Capítulo 14
