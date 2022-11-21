@@ -1,90 +1,150 @@
 # **Programando jogos com micro:bit**
 Repositório de projetos do livro Programando Jogos com micro:bit
 
-
 ## Capítulo 1
-Desvendando o micro:bit apresenta as características da micro:bit e do ambiente de programação Makecode, bem como o processo de conexão e transferência da programação entre o Makecode e a micro:bit.
-https://github.com/elderofz1on/cap01-desafio-alomundo<br>
+###Desvendando o micro:bit apresenta as características da micro:bit e do ambiente de programação Makecode, bem como o processo de conexão e transferência da programação entre o Makecode e a micro:bit.
+
+https://github.com/elderofz1on/cap01-desafio-alomundo
+
 https://github.com/elderofz1on/cap01-desafio-contagem_regressiva
+
 https://github.com/elderofz1on/cap01-desafio-imagem
+
 https://github.com/elderofz1on/cap01-desafio-mensagem-texto-imagem-
+
 https://github.com/elderofz1on/cap01-mensagem-texto-imagem-solucao
+
 https://github.com/elderofz1on/cap01-solucao_contagem_regressiva
 
 ## Capítulo 2 
-Matemática em todo canto: é hora de explorar a tabuada. Neste jogo, você irá explorar a utilização de variáveis para registro de dados, como números aleatórios. Também dará seu primeiro passo na tomada de decisão e controle de fluxo dos programas.
+###Matemática em todo canto: é hora de explorar a tabuada. Neste jogo, você irá explorar a utilização de variáveis para registro de dados, como números aleatórios. Também dará seu primeiro passo na tomada de decisão e controle de fluxo dos programas.
+
 https://github.com/elderofz1on/cap02-desafio-tabuada01
+
 https://github.com/elderofz1on/cap02-desafio-tabuada02
+
 https://github.com/elderofz1on/cap02-desafio-tabuada03
+
 https://github.com/elderofz1on/cap02-desafio-tabuada04
+
 https://github.com/elderofz1on/cap02-solucao_tabuada01
+
 https://github.com/elderofz1on/cap02-solucao_tabuada02
+
 https://github.com/elderofz1on/cap02-solucao_tabuada03
+
 https://github.com/elderofz1on/cap02-solucao_tabuada04
 
 ## Capítulo 3 
-Quente ou frio: neste divertido projeto, que não é propriamente um jogo, você aprenderá a utilizar os sensores internos da micro:bit enquanto se aprofunda na construção de operadores lógicos para controle de fluxo dos programas.
+###Quente ou frio: neste divertido projeto, que não é propriamente um jogo, você aprenderá a utilizar os sensores internos da micro:bit enquanto se aprofunda na construção de operadores lógicos para controle de fluxo dos programas.
+
 https://github.com/elderofz1on/cap03desafio-termometro1
+
 https://github.com/elderofz1on/cap03-desafio-termometro2
+
 https://github.com/elderofz1on/cap03-desafio-termometro3
+
 https://github.com/elderofz1on/cap03-desafio_termometro5
+
 https://github.com/elderofz1on/cap03-desafio_celsius_para_fahrenheit
+
 https://github.com/elderofz1on/cap03-solucao_termometro1
+
 https://github.com/elderofz1on/cap03-solucao_termometro2
+
 https://github.com/elderofz1on/cap03-solucao_termometro3
+
 https://github.com/elderofz1on/cap03-solucao_termometro4
+
 https://github.com/elderofz1on/cap03-solucao_termometro5
+
 https://github.com/elderofz1on/cap03-solucao_celsius_para_fahrenheit
 
 ## Capítulo 4 
-My little pet: você irá mergulhar no mundo dos emojis e na construção de animações, explorando seu uso na construção de um pet virtual. Tudo isso enquanto aprende um pouco sobre o acelerômetro e outros sensores e entradas da micro:bit. Cuidado para seu pet não ficar com frio ou calor 😉
+###My little pet: você irá mergulhar no mundo dos emojis e na construção de animações, explorando seu uso na construção de um pet virtual. Tudo isso enquanto aprende um pouco sobre o acelerômetro e outros sensores e entradas da micro:bit. Cuidado para seu pet não ficar com frio ou calor 😉
+
 https://github.com/elderofz1on/cap04-desafio_astrobit
+
 https://github.com/elderofz1on/cap04-desafio_astrobit2
+
 https://github.com/elderofz1on/cap04-solucao_astrobit
+
 https://github.com/elderofz1on/cap04-solucao_astrobit2
+
 https://github.com/elderofz1on/cap04-solucao_my_little_pet_astrobit3
 
 ## Capítulo 5 
-Dados digitais: construir um dado com a micro:bit é um projeto clássico. Desta vez, você irá explorar recursos matemáticos como aleatoriedade, arredondamento, escolhendo entre projetar algo para um ou dois dados.
+###Dados digitais: construir um dado com a micro:bit é um projeto clássico. Desta vez, você irá explorar recursos matemáticos como aleatoriedade, arredondamento, escolhendo entre projetar algo para um ou dois dados.
+
 https://github.com/elderofz1on/cap05-desafio_1_ou_2_dados
+
 https://github.com/elderofz1on/cap05-desafio_dados_classico
+
 https://github.com/elderofz1on/cap05-solucao_1_ou_2_dados
+
 https://github.com/elderofz1on/cap05-solucao_dados_classico
+
 https://github.com/elderofz1on/cap05-solucao_animacao0
+
 https://github.com/elderofz1on/cap05-solucao_animacao1
 
 ## Capítulo 6 
-Hot wire: você já deve ter visto ou brincado com o jogo labirinto elétrico. Pois bem, é hora de tirar o arame da gaveta e construir este clássico jogo, tudo isto enquanto explora o uso de múltiplas variáveis para registro de falhas e recompensas. E não podemos deixar de lado que serão utilizados os blocos de entrada para controle de ações que ocorrem nos pinos da micro:bit.
+###Hot wire: você já deve ter visto ou brincado com o jogo labirinto elétrico. Pois bem, é hora de tirar o arame da gaveta e construir este clássico jogo, tudo isto enquanto explora o uso de múltiplas variáveis para registro de falhas e recompensas. E não podemos deixar de lado que serão utilizados os blocos de entrada para controle de ações que ocorrem nos pinos da micro:bit.
+
 https://github.com/elderofz1on/cap06-desafio_hot_wire_1
+
 https://github.com/elderofz1on/cap06-desafio_hot_wire_2
+
 https://github.com/elderofz1on/cap06-desafio_hot_wire_3
+
 https://github.com/elderofz1on/cap06-desafio_hot_wire_5
+
 https://github.com/elderofz1on/cap06-solucao_hot_wire_1
+
 https://github.com/elderofz1on/cap06-solucao_hot_wire_2
+
 https://github.com/elderofz1on/cap06-solucao_hot_wire_3
+
 https://github.com/elderofz1on/cap06-solucao_hot_wire_4
+
 https://github.com/elderofz1on/cap06-solucao_hot_wire_5
 
 ## Capítulo 7 
-Contos fantásticos: neste jogo, inspirado no famoso Rory’s Cube, novamente é explorado o recurso de múltiplas variáveis e aleatoriedade, tudo isso para construir uma das ferramentas de narração de histórias mais valiosas para escritores de todas as idades.
+###Contos fantásticos: neste jogo, inspirado no famoso Rory’s Cube, novamente é explorado o recurso de múltiplas variáveis e aleatoriedade, tudo isso para construir uma das ferramentas de narração de histórias mais valiosas para escritores de todas as idades.
+
 https://github.com/elderofz1on/cap07-desafio_conteumahistoria_1
+
 https://github.com/elderofz1on/cap07-desafio_conteumahistoria_2
+
 https://github.com/elderofz1on/cap07-desafio_conteumahistoria_3
+
 https://github.com/elderofz1on/cap07-solucao_conteumahistoria_1
+
 https://github.com/elderofz1on/cap07-solucao_conteumahistoria_2
+
 https://github.com/elderofz1on/cap07-solucao_conteumahistoria_3
 
 ## Capítulo 8
-Escape vírus. É sempre legal jogar um arcade, melhor ainda é construir o seu. Você será inspirado a construir um projeto inspirado no clássico Space Invaders. Você está sob uma intensa chuva virótica, se der bobeira será contaminado. Ao longo do projeto, repetições, criação de variáveis, criação de sprites, utilização dos blocos especialmente construídos para games são alguns dos itens apresentados neste capítulo.
+### Escape vírus. É sempre legal jogar um arcade, melhor ainda é construir o seu. Você será inspirado a construir um projeto inspirado no clássico Space Invaders. Você está sob uma intensa chuva virótica, se der bobeira será contaminado. Ao longo do projeto, repetições, criação de variáveis, criação de sprites, utilização dos blocos especialmente construídos para games são alguns dos itens apresentados neste capítulo.
+
 https://github.com/elderofz1on/cap08-desafio_escape_virus1
+
 https://github.com/elderofz1on/cap08-desafio_escape_virus2
+
 https://github.com/elderofz1on/cap08-desafio_escape_virus3_mod1
+
 https://github.com/elderofz1on/cap08-solucao_escape_virus1
+
 https://github.com/elderofz1on/cap08-solucao_escape_virus2
+
 https://github.com/elderofz1on/cap08-solucao_escape_virus3_mod1
+
 https://github.com/elderofz1on/cap08-solucao_escape_virus3_mod2
+
 https://github.com/elderofz1on/cap08-solucao_escape_virus3_mod2_ir_alem
+
 https://github.com/elderofz1on/cap08-solucao_escape_virus4_mod1
+
 https://github.com/elderofz1on/cap08-solucao_escape_virus4_mod2
 
 ## Capítulo 9
